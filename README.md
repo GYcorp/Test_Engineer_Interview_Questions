@@ -1,4 +1,4 @@
-# Test Engineer Interview Questions for GYNetworks
+# Test Engineer Interview Questions
 
 - 입사를 위한 사전 시험은 총 3가지로 구성되어 있습니다. 완료 후 파일들을 압축하여 보내주시면 됩니다.
 
